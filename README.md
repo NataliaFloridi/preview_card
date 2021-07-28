@@ -8,11 +8,11 @@ Create a 3-column preview card component, using HTML5 and CSS.
 
 ### Screenshot
 
-![Screenshot Profile Card]()
+![Screenshot 3-column preview card]( https://github.com/NataliaFloridi/preview_card/blob/master/imgs/screenshot.jpg)
 
 ### Links
 
-- Live Site URL: [https://nataliafloridi.github.io/preview_card/]
+- Live Site URL: (https://nataliafloridi.github.io/preview_card/)
 
 ### Built with
 
