@@ -12,7 +12,7 @@ Create a 3-column preview card component, using HTML5 and CSS.
 
 ### Links
 
-- Live Site URL: (https://nataliafloridi.github.io/preview_card/)
+- Live Site URL: https://nataliafloridi.github.io/preview_card/
 
 ### Built with
 
